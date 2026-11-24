@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/VoiceFlow-Orion_v2.1-3B82F6?style=for-the-badge&logo=python&logoColor=white">
 </p> <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Type-Executable-green?style=flat-square">
   <img src="https://img.shields.io/badge/GUI-CustomTkinter-1E293B?style=flat-square">
 </p> <h1 align="center">VoiceFlow Orion v2.1</h1> <p align="center">
   <b>Voice-controlled desktop launcher and automation tool</b><br>
@@ -26,24 +26,18 @@ Media and system controls
 Searchable app launcher
 Hotkey: Ctrl + Shift + Space
 Requirements
-Windows
-Python 3.10 or newer
+Windows 10 or Windows 11
 Microphone
-Webcam (optional, for gestures)
-Internet connection
-Installation
-Install the packages:
+Webcam (optional, only needed for gestures)
+Internet connection (for voice recognition)
+No Python installation needed.
 
-pip install customtkinter numpy sounddevice SpeechRecognition gTTS playsound3 Pillow
-
-Optional (recommended):
-
-pip install opencv-python mediapipe pytesseract
-
-Then run:
-
-python voiceflow_orion.py
-
+How to Use
+Download VoiceFlow_Orion.exe
+Double-click the file to run it
+Allow microphone access when Windows asks
+Stay quiet for a second while it calibrates
+Start speaking commands
 Voice Commands
 Command	What it does
 open youtube	Opens YouTube
@@ -69,6 +63,8 @@ Peace Sign	Mute
 Thumb Up	Volume Up
 Thumb Down	Volume Down
 Pointing	Next Track
+Enable gestures with the button in the app or by saying "enable gestures".
+
 Dynamic Island Mode
 Click the Island button or say "dynamic island".
 
@@ -81,10 +77,10 @@ Hotkeys
 Hotkey	Action
 Ctrl + Shift + Space	Summon the app and start listening
 Notes
-This app only works on Windows.
-
-Stay quiet for a second when it starts so it can calibrate the microphone.
-
+Windows only
+Stay quiet for a second when it starts so the microphone can calibrate
+Some antivirus programs may flag the .exe (common with apps that use automation). You can allow it if you trust the file
+Gestures work best with good lighting
 <p align="center">
   VoiceFlow Systems • Orion v2.1
 </p>
