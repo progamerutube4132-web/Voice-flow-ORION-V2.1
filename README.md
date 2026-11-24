@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/VoiceFlow-Orion_v2.1-3B82F6?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/VoiceFlow-Orion_v2.1-3B82F6?style=for-the-badge&logo=python&logoColor=white" alt="VoiceFlow Orion">
 </p> <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows">
-  <img src="https://img.shields.io/badge/Type-Executable-green?style=flat-square">
-  <img src="https://img.shields.io/badge/GUI-CustomTkinter-1E293B?style=flat-square">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows">
+  <img src="https://img.shields.io/badge/Type-Executable-green?style=flat-square" alt="Executable">
+  <img src="https://img.shields.io/badge/GUI-CustomTkinter-1E293B?style=flat-square" alt="CustomTkinter">
 </p> <h1 align="center">🌌 VoiceFlow Orion v2.1 🌌</h1> <p align="center">
   <b>Your voice-powered desktop sidekick!</b><br>
   Open apps, control music, set timers, read your screen, and more — just by talking or waving your hands! 🎤✋
