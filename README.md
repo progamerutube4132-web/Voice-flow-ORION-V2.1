@@ -4,83 +4,84 @@
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows">
   <img src="https://img.shields.io/badge/Type-Executable-green?style=flat-square">
   <img src="https://img.shields.io/badge/GUI-CustomTkinter-1E293B?style=flat-square">
-</p> <h1 align="center">VoiceFlow Orion v2.1</h1> <p align="center">
-  <b>Voice-controlled desktop launcher and automation tool</b><br>
-  Open apps, control media, set timers, read your screen, and more with your voice or hand gestures.
+</p> <h1 align="center">🌌 VoiceFlow Orion v2.1 🌌</h1> <p align="center">
+  <b>Your voice-powered desktop sidekick!</b><br>
+  Open apps, control music, set timers, read your screen, and more — just by talking or waving your hands! 🎤✋
 </p>
-What's New in v2.1
-Dynamic Island Mode (compact floating HUD)
-Screen Reader — say "read my screen"
-Voice Timers — say "set a 5 minute timer"
-Improved GUI and visualizer
-Better gesture support
-More voice commands
-Features
-Voice control for apps, typing, scrolling, and media
-Dynamic Island mini mode
-Touchless hand gestures
-Screen text reader (OCR)
-Countdown timers
-Addon support for .py and .exe files
-Media and system controls
-Searchable app launcher
-Hotkey: Ctrl + Shift + Space
-Requirements
-Windows 10 or Windows 11
-Microphone
-Webcam (optional, only needed for gestures)
-Internet connection (for voice recognition)
-No Python installation needed.
+✨ What's New in v2.1
+🏝️ Dynamic Island Mode — Tiny floating HUD that lives at the top of your screen
+📖 Screen Reader — Just say "read my screen" and it reads everything out loud
+⏱️ Voice Timers — "Set a 5 minute timer" and it starts counting down
+🎨 Better looking GUI + cooler visualizer
+✋ Stronger gesture controls
+🚀 Tons of new voice commands
+🚀 Features
+🎤 Full voice control (open apps, type, scroll, media, system stuff)
+🏝️ Dynamic Island mini mode
+✋ Touchless hand gestures
+📖 Screen text reader (OCR)
+⏱️ Countdown timers
+➕ Addon support (.py and .exe files)
+🎵 Media controls + volume
+🔍 Searchable app & website launcher
+⌨️ Global hotkey (Ctrl + Shift + Space)
+💻 Requirements
+🪟 Windows 10 or 11
+🎤 A microphone
+📷 Webcam (optional — only for gestures)
+🌐 Internet (for voice recognition)
+No Python needed! Just run the .exe 🚀
 
-How to Use
+📥 How to Use
 Download VoiceFlow_Orion.exe
-Double-click the file to run it
+Double-click it
 Allow microphone access when Windows asks
 Stay quiet for a second while it calibrates
-Start speaking commands
-Voice Commands
-Command	What it does
-open youtube	Opens YouTube
-open notepad	Opens Notepad
-set a 5 minute timer	Starts a timer
-cancel timer	Stops the timer
-read my screen	Reads text on screen
-dynamic island	Switches to mini mode
-full mode	Returns to full dashboard
-volume up / volume down	Changes volume
-play music / pause music	Controls media
-next song	Skips track
-take a screenshot	Saves a screenshot
-show desktop	Minimizes all windows
-enable gestures	Turns on hand control
-type hello world	Types text
-scroll down	Scrolls the page
-search for cats	Google search
-Gesture Controls
-Gesture	Action
-Open Palm	Play / Pause
-Peace Sign	Mute
-Thumb Up	Volume Up
-Thumb Down	Volume Down
-Pointing	Next Track
-Enable gestures with the button in the app or by saying "enable gestures".
+Start talking! 🗣️
+🎤 Voice Commands
+open youtube → Opens YouTube
+open notepad → Opens Notepad
+set a 5 minute timer → Starts a timer
+cancel timer → Stops the timer
+read my screen → Reads text on your screen
+dynamic island → Switches to mini mode
+full mode → Goes back to full dashboard
+volume up / volume down → Changes volume
+play music / pause music → Controls media
+next song → Skips track
+take a screenshot → Saves a screenshot
+show desktop → Minimizes everything
+enable gestures → Turns on hand control
+type hello world → Types text
+scroll down → Scrolls the page
+search for cats → Google search
+You can even chain them: "open youtube and then play music" 🔥
 
-Dynamic Island Mode
-Click the Island button or say "dynamic island".
+✋ Gesture Controls
+🖐️ Open Palm → Play / Pause
+✌️ Peace Sign → Mute
+👍 Thumb Up → Volume Up
+👎 Thumb Down → Volume Down
+👉 Pointing → Next Track
+Just say "enable gestures" or click the button!
 
-It turns into a small floating bar you can drag around. Hover over it to see media controls.
-
-Addon System
-Click the Addon button and select a .py or .exe file. It will appear as a button in the launcher.
-
-Hotkeys
-Hotkey	Action
-Ctrl + Shift + Space	Summon the app and start listening
-Notes
+🏝️ Dynamic Island Mode
+Click the 🏝️ Island button or say "dynamic island"
+Turns into a small floating bar you can drag around
+Hover over it to see media controls
+Double-click to expand back to full mode
+➕ Addon System
+Click the ➕ Addon button
+Pick any .py or .exe file
+It instantly becomes a button in the launcher!
+⌨️ Hotkeys
+Ctrl + Shift + Space → Instantly summons VoiceFlow and starts listening
+📝 Notes
 Windows only
-Stay quiet for a second when it starts so the microphone can calibrate
-Some antivirus programs may flag the .exe (common with apps that use automation). You can allow it if you trust the file
-Gestures work best with good lighting
+Stay quiet for a second when it starts (mic calibration)
+Some antivirus might flag the .exe (normal for automation apps) — just allow it if you trust the file
+Gestures work best with good lighting 💡
 <p align="center">
-  VoiceFlow Systems • Orion v2.1
+  <b>VoiceFlow Systems</b> • Orion v2.1 🌌<br>
+  <i>Talk to your computer. Control everything. Have fun.</i>
 </p>
